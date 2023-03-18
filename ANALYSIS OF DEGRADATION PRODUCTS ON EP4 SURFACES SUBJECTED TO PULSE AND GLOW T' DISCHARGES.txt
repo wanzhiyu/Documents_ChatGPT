@@ -1,0 +1,78 @@
+ANALYSIS OF DEGRADATION PRODUCTS ON EP4 SURFACES SUBJECTED TO PULSE AND GLOW T' DISCHARGES 
+C. Hudont, R. Bartnikad, M.R. Wertheimert 
+TDepartment of Engineering Physics, Ecole Polytechniq Montrkal, Qc, Canada, H3C 3A7 
+htitut de Recherche de 1"ydro-Quebec Varennes, Qc, Canada, J3X 1s1 
+ABSTRACT 
+The degradation of epoxy specimens, exposed to pulsepulseless glow discharges, was investigated. Epoxy covere parallel electrodes were employed, the mean discharge magnitt pulse type discharges was measured as a function of exposThe glow discharge light intensity was monitored as a functio using a photomultiplier tube (PMT). Preliminary results in erratically changing magnitude of both the pulse type discharg photoemission prior to the disappearance of the pulses, at wk the PMT output is observed to assume a relatively constant vi latter result infers a quasi constant glow discharge intensity exposure times. The change in the discharge behavior is ascril chemical reactions occurring in the vapor phase and on t specimen surface. The surface deposition products are analyESCA, Debye-Scherrer X-ray diffraction and Ion Chrom measurement techniques. 
+
+INTRODUCTION 
+Partial discharges occumng in voids occluded in solid dielec as epoxy resin are present in different forms, depeiexperimental conditions. In 1969 Bartnikas [l] obse discharges, under certain void conditions, could exhibit spar1pseudo-glow character, the latter being a combination of preceding. These different forms of discharge have been 01 occur both separately and simultaneously in the voids [2].detection problems arise from the fact that conventional detection techniques do not respond to either pseudoglow or discharges. It is the intent of this report to compare the effeci and ulnw rlicrhnrum iinnn the surface modifications accumulated degradation products during the various stages of the discharge process, in conjunction with byproduct analysis, has allowed us to correlate discharge type with the associated degradation damage. 
+
+EXPERIMENTAL 
+Specimens, consisting of plane-parallel electrodes covered with epoxy resin, have been aged under PD at twice the discharge inceptionvoltage. The experiments have been performed in air at ambient pressure and temperature in unvented gaps. The specimens were subjected to PD for exposure times up to 900 hours. Dischargesoccurring in the air gap were measured by means of an external discharge detection circuit, as has been already described in a previous report [3]. The Photocurrent due to light emission associated with the PD was also recorded using a computer controlled electrometer (Keithley model 617) in conjunction with an RCA 31034A05 photomultiplier tube. The pulse discharge magnitude as well as the light generated either by spark or glow discharges were recorded for the duration of each test with an Hewlett Packard data 
+acquisition system. 
+The degradation of the epoxy surface was first visually evaluated by means of optical microscopy with small magnification (50x or 1OOx).Identification of the reaction products formed on the epoxy surfaces was carried out employing several analytical techniques. The Debye- Scherrer X-ray diffraction method was used to identify crystalline degradation products. The Ion chromatography technique employed consisted in first dissolving some of the deposits on the degradedsurface and subsequently analyzing the solution to identify the specific low molecular weight products. ESCA (ElectronSpectroscopy for Chemical Analysis) was used to ascertain the extent of surface oxidation. Surface analyses were generally performed at times in the order of minutes after the PD exposure was terminated. 
+
+RESULTS 
+The peak PD pulse magnitude exhibited high variability, particularly as concerns the large pulses in the first few hundred hours of corona exposure. Subsequently, the magnitude of the discharge pulsesdecreased abruptly, eventually resulting in an almost completedisappearance of the discharge pulses as delineated by the lower curve in Fig. 1. Note that the mean PMT photocurrent and mean dischargeamplitude are given in different units on the vertical axis, namely in nA and pC, respectively. As seen, the photocurrent, although initially erratic. finallv aqq11rnPc R mm,= rtahlp XII~I~C. ;nA:nnA--
+pl~Qvl., 
+transition from spark to glow type discharges. The glow photc value is typically = 1 nA, while the PMT dark current is in th of one PA. In the final hours of exposure only the optical component was detected. The observed optical current behi similar to that reported by Sierota et a1.141. 
+-4.0 $ 
+5
+8
+
+-3.02 
+a 
+0 
+-2.02
+5 
+6 
+
+
+-1.0 
+.-0 
+Exposure time (Hours) 
+Figure 1: The mean electrical pulse discharge amplitude (dasl and mean photocurrent (solid line) as a fun1 exposure time to corona discharge. 
+With all specimens it was found that only a minor moc occurred on the epoxy surface following exposure to spark di! Although no pulses could be detected with longer exposu: very pronounced surface degradation was seen to res1 continued exposure to only glow or pulseless type discharg previously observed [3], the two forms of degradationobtained after short and long term corona exposure are res seen to consist of droplets and crystals plus droplets. 
+increase of the COOH, C=O and C-OH peaks with respect to the C-C peak intensity that PD action leads to markedly oxidized degradation products. Moreover, the longer the duration of the exposure to PD, the greater the extent of the observed oxidation. Some surface oxidation was also found to occur initially under spark discharge conditions. For instance the C=O bond with a binding energy of -287.8 eV, absent on unexposed specimens, was observed to appearfollowing exposure to spark discharges. However, the level of oxidation was found to be much higher, and to increase more markedly under glow discharge conditions, as is apparent from the lower portion of Fig.2, obtained after an exposure of 900 h. 
+k
+vu6 vc! 
+BlNOlNQ ENERQY (eV) 
+Figure 2:C(ls) ESCA surface analysis of degraded epoxy surfaces for different durations of corona exposure; upper curve: 200 
+hn1n-qand lnwpr Pin-w=. Onn hmwc 
+The increase of the COOH peak implies that either one or bc degradation products (droplets and crystals) mentioned abovc composed of acids. 
+In order to carry out a more definitive identification of the formed (which had been earlier assumed to consist of oxalic X-ray diffraction analysis was performed using the Debyepowder method. This was done by scraping off some of the epoxy surface material to be analyzed and then taking a d pattern of the powder containing the crystals. The most inter nine rings recorded on the photographic film are visible in : perfect match of all diffraction peaks allowed positive iden of the crystals as being hydrogen oxalate hydrate CzH20~2H 
+Figure 3: Debye-Scherrer X-ray diffraction patterncrystals formed on the epoxy surface. 
+The Ion chromatography technique was used to deten 
+composition of the liquid droplets, which were formerly as 
+be composed of a mixture of simple organic compounds 
+formic, acetic and carboxylic acids [3]. Even though the 
+specimen analyzed here exhibited only minor surface chat 
+small crystal formation, the solution obtained from it con 
+many degradation products that it caused saturation 
+conductivity detector. This solution had to be diluted by a 
+500 before any useful information could be obtained 
+chromatograph. It was then possible to identify glycolate an 
+in quantities exceeding by at least two orders of magnitude 
+present in the virgin specimen. Acetate or ions from more 
+acids were not detected on the degraded epoxy surface. The 
+content did not evolve much with partial discharge expc 
+traces of chloride and fluoride appeared to remain constant 
+nitrate was found in much larger quantities after degrad
+2 --__-13 r----1 _---L--1--:-
+DISCUSSION AND CONCLUSIONS 
+With low overvoltage applied across the epoxy specimens, two different types of discharge mechanisms were found to be responsible for the observed degradation of the insulation. PMT photocurrent measurements have allowed us to clearly observe the transition from spark to glow type discharges. Spark type discharges that could be detected by a conventional pulse detection circuit, were characterized by an emission of erratic light pulses, which disappeared after a short time. The exposure time for the transition to occur varied from 20 hours to 100 hours. Surprisingly, the spark discharges do not appear to contribute significantly to the physical damage of the epoxysurfaces, other than to the formation of droplets. ESCA and Ion chromatography measurements have partially established that the droplets are composed, among others, of a mixture of formic and glycolic acid. Nitric acid was also found to form under partialdischarge exposure in air, but no acetic acid was detected. Others degradation products were observed, but their identity still remains unknown. 
+Evidence suggests that glow type discharges are responsible for an appreciable portion of the epoxy surface degradation --i.e. the glow accelerates crystal growth and is most probably the incipient cause of crystal formation. Quantitative analysis of degradation products as a function of exposure time is presently being investigated, in order to determine their relationship to the pulse to glow transition time. The crystals that represent the predominant degradation form have been positively identified as hydrated oxalic acid, C2H2062H2O. To our knowledge this is the first time that X-ray diffraction has been used in this context. The initial stages of crystal formation are difficult to delineate, because of the presence of both types of dischargeextending over a certain transition period. It is however noteworthy that crystals were never observed under short exposure times to spark discharges. Holboll et al. [5] suggest that they may cause field enhancements responsible for the initial stages of electrical treeing.Based on microscopic observation, Kitamura et al. [6] speculate that pits observed on void surfaces are generated by microdischargeswhich can be optically detected even when no PD pulses are recorded. It would seem that the destructive nature of glow discharges has not been fully appreciated in the past. The present study has clearlyestablished their ability to degrade the surface of organic insulating materials. 
+ACKNOWLEDGMENTS: the authors wish to express their gra
+L. Ouelette, to J.E. Klemberg-Sapieha and P. Samson f assistance with the Ion chromatography, ESCA and X-ray di measurements, respectively. This work has been supported ii the Natural Sciences and Engineering Research Council of (NSERC), and by the fonds "Formation de Chercheurs et L Recherche" (FCAR) of Quebec. 
+
+REFERENCES 
+R. Bartnikas, "Note on AC Discharges Between Dielectric Electrodes in Helium", J. Ap$. Phys., a,19 (1969) 
+Bartnikas,R., Novak,J.P. and McNicoll,Y., "SparkDischarge Transition in Cavities", IEEE ISEI, Conf # 90CH2727-6,352-355, (1990) 
+Hudon,C., Bartnikas,R. and Wertheimer,M.R., Conductivity of Epoxy Specimens Subjected to Discharges", IEEE ISEI, Conf. Record # 90CH2727-6, (1990) 
+Sierota,A. and Zdaniwicz,L., "Optical Emission Result Partial Discharges Between Metal and Dielectric in Symp. on Electr. Discharges Gases, 9-25, Warsaw Pol., ( 
+Holbol1,J.T. and Henriksen,M., "Partial DischargeRelated to Surface Deterioration in Voids in Epoxy", IE Conf. Record # 9OCH2727-6, 115-1 19, (1990) 
+Y. Kitamura and S. Hirabayashi, "Partial D Deterioration of Epoxy Resin for Electronic Parts", IEEE Conf. Record # 85CH2165-9,485-490, (1985) 
+
+
+
